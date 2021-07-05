@@ -1,8 +1,8 @@
 {
-  "name": "scratch-vm",
+  "name": "town-editor-vm",
   "version": "0.2.0",
   "description": "Virtual Machine for Scratch 3.0",
-  "author": "Massachusetts Institute of Technology",
+  "author": "town-editor",
   "license": "BSD-3-Clause",
   "homepage": "https://github.com/368573607/town-editor-vm.git",
   "repository": {
@@ -71,8 +71,8 @@
     "lodash.defaultsdeep": "4.6.1",
     "pngjs": "^3.3.2",
     "scratch-audio": "latest",
-    "scratch-blocks": "latest",
-    "scratch-l10n": "^3.1.20181129221712",
+    "town-editor-blocks": "latest",
+    "town-editor-l10n": "^3.1.20181129221712",
     "scratch-render": "latest",
     "scratch-render-fonts": "^1.0.0-prerelease.20210401210003",
     "scratch-storage": "^1.1.0",
